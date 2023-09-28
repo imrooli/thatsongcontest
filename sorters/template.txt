@@ -3,6 +3,7 @@
 <head>
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta charset="UTF-8">
 <style type="text/css">
 <!--
 #mainTable {
@@ -49,7 +50,6 @@ body {
 -->
 </style>
 </head>
-<meta charset="UTF-8">
 <body text="#000000" bgcolor="#ffffff" link="#e097d9" vlink="#e097d9" alink="#79a2c9">
 <p class="instructions">
 <center>
