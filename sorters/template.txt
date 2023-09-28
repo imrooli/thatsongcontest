@@ -90,14 +90,15 @@ showImage();
 </script>
 <p class="other">
   <center>
-    <small>
-	  .・。.・゜✭・.・✫・゜・。.
-      <a href="X" target="_blank">spotify playlist</a> ✫ 
-      <a href="X" target="_blank">youtube playlist</a>
-	  .・。.・゜✭・.・✫・゜・。.
-      <br /><br />used with permission.<br /><br/>
-      <a href="http://biasorter.tumblr.com/" target="_blank">created by biasorter</a>
-    </small>
+<small>
+    &#12290;&#65372;&#12290;&#65372;&#12290;&#65372;&#65356;&#8227;&#65372;&#12290;&#65372;&#8226;&#65372;&#65356;&#8227;&#65372;&#65372;&#12290;&#65372;
+    <a href="X" target="_blank">spotify playlist</a> &#8226; 
+    <a href="X" target="_blank">youtube playlist</a>
+    &#12290;&#65372;&#12290;&#65372;&#12290;&#65372;&#65356;&#8227;&#65372;&#12290;&#65372;&#8226;&#65372;&#65356;&#8227;&#65372;&#65372;&#12290;&#65372;
+    <br /><br />used with permission.<br /><br/>
+    <a href="http://biasorter.tumblr.com/" target="_blank">created by biasorter</a>
+</small>
+
   </center>
 </p>
 </body>
