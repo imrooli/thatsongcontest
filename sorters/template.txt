@@ -92,10 +92,9 @@ showImage();
 <p class="other">
 
 <center><small>
-.・。.・゜✭・.・✫・゜・。.
-<a href="X">spotify playlist</a> ✭ 
+
+<a href="X">spotify playlist</a> | 
 <a href="X">youtube playlist</a>
-.・。.・゜✭・.・✫・゜・。.
 <br /><br />used with permission.<br /><br/>
 <a href="http://biasorter.tumblr.com/">created by biasorter</a>.</small></center>
 </p>
