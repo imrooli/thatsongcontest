@@ -1,0 +1,8 @@
+UPDATE CHECKLIST:
+
+1. add theme image file to images labelled appropriately
+2. update index.html
+3. create new theme sorter page 
+	add songs
+	playlist links 
+	update header
